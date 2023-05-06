@@ -13,9 +13,7 @@ In other words, if you want to interact with a computer or system to retrieve in
 
 ### [Learn more about APIs](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
 
-You can think of an API as a mediator between the users or clients and the resources or web services they want to get. It’s also a way for an organization to share resources and information while maintaining security, control, and authentication—determining who gets access to what. 
-
-Another advantage of an API is that you don’t have to know the specifics of caching—how your resource is retrieved or where it comes from.
+You can think of an API as a mediator between the users or clients and the resources or web services they want to get. It’s also a way for an organization to share resources and information while maintaining security, control, and authentication—determining who gets access to what. Another advantage of an API is that you don’t have to know the specifics of caching—how your resource is retrieved or where it comes from.
 ---
 
 ## REST
